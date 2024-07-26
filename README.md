@@ -5,7 +5,7 @@
     <img src="https://github.com/user-attachments/assets/0b082e3f-060f-4b92-bb2e-522c5228901c"></img>
   </a>
 </p>
-![image]()
+
 :star: Star us on GitHub — it helps!
 
 # Sections 📚
