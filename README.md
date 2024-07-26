@@ -12,12 +12,13 @@
 
 ✔️ Summary and About me\
 ✔️ Skills \
-✔️ Open Source Projects Connected with Github\
 ✔️ Experience\
-✔️ Certifications 🏆\
+✔️ Projects 🏆\
 ✔️ Blogs\
 ✔️ Education\
 ✔️ Contact me
+
+To view a live example, **[click here](https://portfoliokritagyakumra.netlify.app/)**
 
 # Customize it to make your own portfolio ✏️
 
